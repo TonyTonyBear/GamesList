@@ -4,7 +4,6 @@
 - Octopath Traveler
 - Xenoblade Chronicles 2
 ## Digital
-- Dead Cells Completed Run
 - Stardew Valley
 - Bloodstained: Curse of the Moon
 - Crash Bandicoot 1

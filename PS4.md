@@ -19,7 +19,6 @@
 - God of War 3
 - Guacamelee
 - Mafia 3
-- Horizon Zero Dawn
 - Just Cause 3
 - Mad Max
 - The Last of Us
